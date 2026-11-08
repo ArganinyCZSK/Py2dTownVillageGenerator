@@ -30,7 +30,7 @@ Created by **ArganinyCZSK / Jan Hepp** · [Discord](https://discord.gg/gn85hyddQ
 ### Map image import
 - Turns a **PNG or JPG picture of a real map** into a fully editable map.
 - Detects buildings, roads, highways, dirt tracks, ponds and streams, forests, gardens and fields.
-- Works with **historical topographic maps** (e.g. 1950s-1980s scans) and **modern maps** with a white background. The map style is detected automatically and can also be chosen by hand.
+- Works with **historical topographic maps** and **modern maps** with a white background. The map style is detected automatically and can also be chosen by hand.
 
 ### Export
 Files are saved into the same folder as the program.
