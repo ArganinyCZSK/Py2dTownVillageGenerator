@@ -1,7 +1,7 @@
 # Py2D Town & Village Generator
 
 A 2D map generator for villages and towns, written in plain Python with **no external libraries**.
-Generate a settlement layout with one click, edit it and export it to PNG, SVG, JSON and more.
+Generate a town or village layout with one click, edit it and export it to PNG, SVG, JSON and more.
 
 Created by **ArganinyCZSK / Jan Hepp** · [Discord](https://discord.gg/gn85hyddQC)
 
