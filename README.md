@@ -96,17 +96,6 @@ python map_generator.py --import my_map.png --style modern --export png
 | Export | `Ctrl+S` |
 | Deselect | `Esc` |
 
----
-
-## Map data and licences of imported pictures
-
-The program itself does **not** contain any map data.
-If you import a picture of a real map, you must follow the licence of that map's source and credit it when you share the result. For example:
-- Current maps of the Czech Office for Surveying, Mapping and Cadastre (ČÚZK) are open data under **CC BY 4.0**. Credit them as "© ČÚZK".
-- Archival maps from the ČÚZK archive must be credited to "Ústřední archiv zeměměřictví a katastru".
-
----
-
 ## License
 
 **CC BY (Creative Commons Attribution)**. You may share and adapt this program, but you must give credit to the author: **ArganinyCZSK / Jan Hepp**.
