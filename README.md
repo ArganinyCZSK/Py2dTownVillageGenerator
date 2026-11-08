@@ -10,9 +10,9 @@ Created by **ArganinyCZSK / Jan Hepp** · [Discord](https://discord.gg/gn85hyddQ
 ## Features
 
 ### Map generation
-- Generates 2D maps of **villages** or **towns**: houses, churches and town halls, roads, dirt tracks, street lamps, walls, fences, fields, forests and ponds.
-- Towns have **defensive walls with towers and gates** and a central market square. Villages have a village green with a small pond.
-- Every map gets a random name and a **seed**. The same seed always generates the same map again.
+- Generates 2D maps of villages or towns: houses, churches and town halls, roads, dirt tracks, street lamps, walls, fences, fields, forests and ponds.
+- Towns have defensive walls with towers and gates and a central market square. Villages have a village green with a small pond.
+- Every map gets a random name and a seed. The same seed always generates the same map again.
 
 ### Settings (left panel)
 - Map and settlement size, number of main roads and streets, building density and size.
